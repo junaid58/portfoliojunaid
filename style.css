@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+}
+.head{
+	background-image: url("./images/bgImg.jpg");
+	background-size: cover;
+}
+.dpimg img{
+	max-width: 170px;
+}
+.careerClass,.infoClass{
+	font-size: .7em;
+
+}
+
+.bgFooter{
+	background-image: url("./images/c2.jpg");
+	background-size: cover;
+}
+.gradient{
+	background-image: linear-gradient(to right , yellow, red);
+}
+.hrDotted{
+	border-top: dotted;
+}
